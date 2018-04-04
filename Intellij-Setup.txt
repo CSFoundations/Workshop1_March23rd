@@ -1,0 +1,20 @@
+//Download
+1. Download Intellij Community Edition - https://www.jetbrains.com/idea/download/#section=windows
+2. Download Android SDK (Java SE Development Kit 8u161) - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+//Installation
+3. Run Intellij installer - default installation (do not check boxes or install any plugins)
+4. Once you have finished installation click Create New Project
+
+//New project setup
+5.  Select your Project SDK by clicking (New...)
+6.  Find the Android SDK that you had just downloaded (it should be in somewhere like...C:\Program files\java\jdk8)
+7.  Click OK
+8.  Click Next
+9.  Name your project to whatever you'd like and select where you want your project to be saved
+10. Click Finish
+11. Wait for Intellij to finish building (should take a minute)
+
+
+You have succcessfully installed Intellij, a powerful IDE to that helps you make writing Java code less stressful! :) 
+
